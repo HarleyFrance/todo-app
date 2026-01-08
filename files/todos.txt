@@ -1,0 +1,5 @@
+Code in python
+Sleeping
+Add a new member
+Studying python
+Learning redis
