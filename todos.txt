@@ -1,3 +1,0 @@
-1. Take care of the pets
-2. Walking
-3. Learn Python
